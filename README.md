@@ -13,12 +13,12 @@ QWidget
 
 下图为最终的成品图
 
-<img src="./source/展示图.png" align="left"/>
+![](./source/展示图.png)
 
 
 图中有两个不太起眼的按钮
 
-<img src="./source/说明图.png" align="left"/>
+![](./source/说明图.png)
 
 ①为开始和暂停按钮
 
