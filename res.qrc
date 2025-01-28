@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>source/button2.png</file>
+        <file>source/screen.png</file>
+        <file>source/button.svg</file>
+        <file>source/button_hover.svg</file>
+        <file>source/button2_hover.svg</file>
+        <file>source/seting_screen.svg</file>
+        <file>source/seting_screen_2.svg</file>
+        <file>source/close.svg</file>
+        <file>source/close_gray.svg</file>
+        <file>source/30.svg</file>
+        <file>source/30_gray.svg</file>
+        <file>source/60.svg</file>
+        <file>source/60_gray.svg</file>
+        <file>source/clock.svg</file>
+        <file>source/icon.svg</file>
+    </qresource>
+</RCC>
